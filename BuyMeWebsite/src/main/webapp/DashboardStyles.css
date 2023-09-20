@@ -1,0 +1,81 @@
+/* html selectors */
+
+body
+{
+    font-family: "Montserrat",sans-serif;
+    background-color: #FDF5DF;
+    text-align: center;
+}
+
+.colored{
+
+    background-color: #5EBEC4;
+    color: #F92C85;
+}
+
+.container-fluid
+{
+    padding: 3% 6% 5% 7%;
+}
+
+.navbar-brand{
+    font-size: 1.8rem;
+    color: #FDF5DF;
+}
+
+.nav-link
+{
+    font-size: 1.2rem;
+    color: #FDF5DF;
+}
+
+
+.container-two{
+    padding: 3% 6% 5% 7%;
+    text-align: left;
+    color: #d14da9;
+    font-weight: 500;
+    font-size: 1.2rem;
+    font-family: "Montserrat",sans-serif;
+}
+
+.queryTitle{
+    padding: 4%;
+    display: inline-block;
+}
+
+.numitems{
+    margin: 5px 5px 10px 5px;
+}
+
+.titT{
+    display: inline-block;
+    padding: 3%;
+    margin-left: 200px;
+}
+
+.container-three{
+    padding: 3% 6% 5% 7%;
+    text-align: left;
+    color: #d14da9;
+    font-weight: 500;
+    font-size: 1.2rem;
+    font-family: "Montserrat",sans-serif;
+}
+
+.querythree{
+    padding: 2%;
+}
+
+.headings{
+    font-size: 1.8rem;
+     font-weight: 300;
+     margin: 5px;
+}
+
+.containerfour{
+    padding: 15%;
+    margin-bottom: 10%;
+    margin-top: 0;
+    float: right;
+}
